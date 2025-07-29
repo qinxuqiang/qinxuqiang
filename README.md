@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Xuqiang Qin
 
 Welcome to my GitHub profile!  
-I'm passionate about software development, technology, and open-source contributions.
+I'm passionate about artificial intelligence, mathematcs, and open-source contributions.
 
 ## 🚀 About Me
 
@@ -15,15 +15,18 @@ I'm passionate about software development, technology, and open-source contribut
 
 ## 🛠️ Tools & Technologies
 
-- Languages: Python, JavaScript, C++, ...
-- Frameworks: React, Node.js, ...
+- Languages: Python, JavaScript, C++, Matlab, SQL
+- ML/AI: PyTorch, TensorFlow, Keras, scikit-learn, Transformers, Langchain
 - Tools: Git, Docker, ...
 
 ## 🔗 Connect with Me
 
+- [Email](mailto:russellqin@gmail.com)
 - [GitHub](https://github.com/qinxuqiang)
 - [Huggingface](https://huggingface.co/qinxuqiang1990)
-- [Email](mailto:russellqin@gmail.com)
+- [Google Scholar](https://scholar.google.com/citations?user=zUjz89EAAAAJ&hl=en)
+  
+
 
 ---
 
