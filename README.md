@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Xuqiang Qin
 
 Welcome to my GitHub profile!  
-I'm passionate about artificial intelligence, mathematcs, and open-source contributions.
+I'm passionate about artificial intelligence, mathematics, and open-source contributions.
 
 ## 🚀 About Me
 
