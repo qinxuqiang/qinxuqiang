@@ -26,6 +26,7 @@ I'm passionate about artificial intelligence, mathematics, and open-source contr
 - [Email](mailto:russellqin@gmail.com)
 - [GitHub](https://github.com/qinxuqiang)
 - [Huggingface](https://huggingface.co/qinxuqiang1990)
+- [LeetCode](https://leetcode.com/u/qinxuqiang1990/)
 - [Google Scholar](https://scholar.google.com/citations?user=zUjz89EAAAAJ&hl=en)
   
 
