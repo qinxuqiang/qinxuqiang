@@ -19,7 +19,7 @@ I'm passionate about artificial intelligence, mathematics, and open-source contr
 
 - Languages: Python, JavaScript, C++, Matlab, SQL
 - ML/AI: PyTorch, TensorFlow, Keras, scikit-learn, Transformers, Langchain
-- Tools: Git, Docker, ...
+- Tools: Git, Docker, Kubernetes
 
 ## 🔗 Connect with Me
 
