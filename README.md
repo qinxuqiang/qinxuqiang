@@ -10,6 +10,7 @@ I'm passionate about artificial intelligence, mathematics, and open-source contr
 - 💻 I love coding in multiple languages and exploring new tech.
 - 🌱 Currently learning and building new projects.
 - 🤝 Always open to collaboration and interesting ideas.
+- 🚫 No to AI slops
 
 ## 📊 GitHub Stats
 
