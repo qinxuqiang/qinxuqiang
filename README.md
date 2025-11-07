@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Xuqiang+Qin)](https://git.io/typing-svg)
 
 Welcome to my GitHub profile!  
-I'm passionate about artificial intelligence, mathematics, and open-source contributions.
+
 
 ## 🚀 About Me
 
@@ -11,7 +11,7 @@ I'm passionate about artificial intelligence, mathematics, and open-source contr
 - 🌱 Currently learning and building new projects.
 - 🤝 Always open to collaboration and interesting ideas.
 - 🚫 No to AI slops
-
+- Currently working on some stuff with n8n
 ## 📊 GitHub Stats
 
 ![Qinxuqiang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=qinxuqiang&show_icons=true&hide_title=true&theme=default)
