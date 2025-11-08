@@ -7,7 +7,7 @@ Welcome to my GitHub profile!
 
 ## 🚀 About Me
 
-- 💻 I love coding in multiple languages and exploring new tech.
+- 💻 AI enthusiast, former mathematician.
 - 🌱 Currently learning and building new projects.
 - 🤝 Always open to collaboration and interesting ideas.
 - 🚫 No to AI slops
