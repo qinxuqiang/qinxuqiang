@@ -7,8 +7,8 @@ Welcome to my GitHub profile!
 
 ## 🚀 About Me
 
-- 💻 AI enthusiast, former mathematician.
-- 🌱 Currently learning and building new projects.
+- AI enthusiast, former mathematician.
+- Currently learning and building new projects.
 - 🤝 Always open to collaboration and interesting ideas.
 - 🚫 No to AI slops
 - Currently working on some stuff with n8n
