@@ -18,8 +18,8 @@ Welcome to my GitHub profile!
 
 ## 🛠️ Tools & Technologies
 
-- Languages: Python, JavaScript, C++, Matlab, SQL
-- ML/AI: PyTorch, TensorFlow, Keras, scikit-learn, Transformers, Langchain
+- Languages: Python, Typescript, C++, Matlab, SQL
+- ML/AI: PyTorch, TensorFlow, Langchain, Keras, scikit-learn, Transformers
 - Tools: Git, Docker, Kubernetes
 
 ## 🔗 Connect with Me
