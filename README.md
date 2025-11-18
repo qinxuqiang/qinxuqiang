@@ -27,8 +27,7 @@ Welcome to my GitHub profile!
 - [Email](mailto:russellqin@gmail.com)
 - [GitHub](https://github.com/qinxuqiang)
 - [Huggingface](https://huggingface.co/qinxuqiang1990)
-- [LeetCode](https://leetcode.com/u/qinxuqiang1990/)
-- [Google Scholar](https://scholar.google.com/citations?user=zUjz89EAAAAJ&hl=en)
+- [Google Scholar (mathematics)](https://scholar.google.com/citations?user=zUjz89EAAAAJ&hl=en)
   
 
 
